@@ -1,7 +1,9 @@
 # SMM tools
 Usifull SMM tools for authors
 
-```from smmtools import Instgaram
+Example:
+```
+from smmtools import Instgaram
 
 import PIL
 

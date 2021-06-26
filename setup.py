@@ -8,7 +8,7 @@ def readme():
 
 setuptools.setup(name='SMM-tools',
       version='0.1',
-      description='Usifull SMM tools for authors',
+      description='Usifull SMM tools for content creators',
       long_description=readme(),
       classifiers=[
         'Development Status :: 3 - Alpha',
